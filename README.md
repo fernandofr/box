@@ -1,4 +1,3 @@
-# box
 # Projeto desenvolvido na semana omnistack da rocketseat
 
 --
